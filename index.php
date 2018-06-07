@@ -10,7 +10,7 @@
 	</head>
 	<body>
 		
-		<div class="container" style="margin-top: 50px">
+		<div class="container" style="margin-top: 150px">
 		
 			<?php
 			
@@ -55,7 +55,7 @@
 		    <form method="post" action="calculator.php">
 		        <input name="number1" type="text" class="form-control" style="width: 150px; display: inline" />
 		        <select name="operation">
-		        	<option value="plus">Plus</option>
+		        	<option value="PLUS">Plus</option>
 		            <option value="minus">Minus</option>
 		            <option value="times">Times</option>
 		            <option value="divided by">Divided By</option>
